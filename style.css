@@ -1,0 +1,173 @@
+*{
+  margin:0;
+  padding:0;
+}
+header{
+  display: flex;
+  height: 100px;
+  position:sticky;
+  top: 0;
+  background-color: white;
+
+}
+.logo{
+  margin-right: 480px;
+  padding-left: 20px;
+  padding-top: 5px;
+}
+
+.Loggo{
+  width: 100px;
+  height: 85px;
+  object-fit: cover;
+  
+}
+.anchor{
+  padding-top: 38px;
+
+}
+.anchors{
+  padding-right: 50px;
+  text-decoration: none;
+  font-size: 19px;
+  color: black;
+  font-weight:600;
+  font-size: 20px;
+  transition: 1;
+}
+.anchors:hover{
+  color: lightpink;
+}
+#sec1{
+  background-image: url(Hero-Section.jpg);
+  background-size: cover;
+  height: 420px;
+  width: 1500;
+  text-align: left;
+  padding-top:225px ;
+  padding-left: 75px;
+}
+
+#p1{
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
+  padding-bottom: 35px;
+}
+
+#p2{
+  color: white;
+  font-size: 20px;
+  padding-bottom: 10px;
+
+}
+
+#button{
+  width:280px;
+  height: 50px;
+  border-radius: 30px;
+  background-color: #1473e6;
+  border:none;
+  color:white;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#p3{
+  display: inline;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+
+
+#three-boxes{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding-bottom: 70px;
+  margin-bottom: 15px;
+  margin-top: 65px;
+}
+.g1{
+  height: 530px;
+  width: 430px;
+}
+#ggg{
+  background-image: url(Three-Boxes-1.jpg);
+  background-size: cover;
+  color:white;
+
+}
+
+#gg1{
+  background-image: url(Three-Boxes-2.jpg);
+  background-size: cover;
+}
+
+#gg2{
+  background-image: url(Three-Boxes-3.jpg);
+  background-size: cover;
+  color: white;
+}
+
+#h1{
+  font-weight: bold;
+  padding-top: 80px;
+  padding-left: 25px;
+
+}
+
+#h2{
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 30px;
+  padding-left:25px ;
+}
+
+#h3{
+  font-size: 19px;
+  padding-top: 10px;
+  padding-left: 25px;
+}
+
+#h4{
+  padding-top: 10px;
+  padding-left: 25px;
+  font-weight: bold;
+}
+
+#i1{
+  padding-top: 370px ;
+  padding-left: 25px;
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+#i2{
+  padding-top: 10px;
+  padding-left: 25px;
+  color: white;
+  font-weight: bold;
+}
+
+#i3{
+  padding-top: 10px;
+  padding-left: 25px;
+  color: white;
+  font-weight: bold;
+}
+
+#topg{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 15px;
+  font-size: 20px;
+}
+
+.last-box{
+  padding-top: 23px;
+  padding-left: 15px;
+}
